@@ -59,7 +59,15 @@ width: 100%; /* Full width */
 }
 
 
-
+.texte{
+    font-family: Arial;
+    color: white;
+    text-align: center;
+    margin-left: 190px;
+    margin-right: 190px;
+    font-size: 25px;
+    
+}
 
 
 
