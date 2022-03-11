@@ -62,15 +62,18 @@ z-index: 1;
     -webkit-animation: fadein 2s; /* Safari et Chrome */
     -o-animation: fadein 2s; /* Opera */
     text-align: center;
+    margin-right: 3%;
+    margin-left: 3%;
+
 }
 
 
 .texte{
     font-family: Arial;
     color: white;
-    text-align: center;
-    margin-left: 80px;
-    margin-right: 80px;
+    text-align: justify;
+    margin-left: 15%;
+    margin-right: 15%;
     font-size: 25px;  
 
 }
@@ -163,6 +166,16 @@ z-index: 1;
 .tftable tr {background-color:#2f2f2f;transition: 0.5s;}
 .tftable td {font-size:20px;font-family: Arial;border-width: 1px;padding: 8px;border-style: solid;border-color: #686767;}
 .tftable tr:hover {background-color:#171515;transition: 0.3s;}
+
+
+
+
+
+
+
+
+
+
 
 
 
